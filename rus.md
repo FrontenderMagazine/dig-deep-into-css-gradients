@@ -26,10 +26,7 @@ CSS.
 на друга. В него добавлена кнопка "Пауза" чтобы избежать проблем с 
 производительностью которые могут возникнуть изза повторяющейся анимации.
 
-<iframe id="cp_embed_Kuvom" src="http://codepen.io/thebabydino/embed/Kuvom?type=result&height=340&safe=true" data-height="340" 
-allowtransparency="true" class="cp_embed_iframe" style="width: 100%;
-border: none; overflow: hidden;" scrolling="no" frameborder="0" height="340">
-</iframe>
+<div><iframe id="cp_embed_Kuvom" src="http://codepen.io/thebabydino/embed/Kuvom?type=result&amp;height=340&amp;safe=true" data-height="340" allowtransparency="true" class="cp_embed_iframe" style="width: 100%;border: none; overflow: hidden;" scrolling="no" frameborder="0" height="340"></iframe></div>
 
 И в исходном примере, и в дополнительном демо нас интересует эта часть:
 
