@@ -157,7 +157,7 @@ WebKit имея значения углов для остальных движк
  соотношение длины отрезков *SI* и *SE*; процентное значение для точки *P* равно 
  этому сооотношению умноженному на 100%. 
 
- ## Использование на практике
+## Использование на практике
 
 Попробуем применить все это на примере с разноцветным колесом. 
 
@@ -185,7 +185,7 @@ WebKit имея значения углов для остальных движк
 этого в свою очередь следует что *SO* и *EO* равны, и значит длина отрезка *SE* 
 равна длине *EO* умноженной на два и длине *SO* умноженной на два. 
 
-![A right angled triangle and how to compute sime and cosine functions](img/right_triangle_trigonometric_functions.png?raw=true&amp;repo=dig_deep_into_css_gradients "A right angled triangle and how to compute sime and cosine functions")
+![A right angled triangle and how to compute sime and cosine functions](img/right_triangle_trigonometric_functions.png?raw=true&repo=dig_deep_into_css_gradients "A right angled triangle and how to compute sime and cosine functions")
 
 *Примечание: перед тем как двигаться дальше, вспомним несколько 
 тригонометрических понятий. Самая длинная сторона прямоугольного треугольника 
