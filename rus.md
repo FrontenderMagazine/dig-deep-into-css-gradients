@@ -136,7 +136,7 @@ frameborder="0" height="640"></iframe>
 это линия 100% (черная линия на изображении ниже), ее пересечение с линией градиента - это
 *конечная точка* градиента (назовем ее точкой *E*).
 
-![Gradient with gradient line, 0% line, 100% line](img/gradient.png?raw=true&amp;repo=dig_deep_into_css_gradients "Gradient with gradient line, 0% line, 100% line")
+![Gradient with gradient line, 0% line, 100% line](img/gradient_ru.png?raw=true&amp;repo=dig_deep_into_css_gradients "Gradient with gradient line, 0% line, 100% line")
 
 Чтобы рассчитать процентное значение произвольной точки *P*, для начала опустим из
 нее перпендикуляр на линию градиента. Линия градиента и этот перпендикуляр пересекаются
@@ -154,7 +154,7 @@ frameborder="0" height="640"></iframe>
 темно-синюю часть от прозрачной. Получаем линию градиента. Как показано ниже, между
 вертикальной осью и линией градиента лежит угол 36°, и значит угол градиента составляет 36°.
 
-![Applying the theory for the first slice](img/slice_1.png?raw=true&amp;repo=dig_deep_into_css_gradients "Applying the theory for the first slice")
+![Applying the theory for the first slice](img/slice_1_ru.png?raw=true&amp;repo=dig_deep_into_css_gradients "Applying the theory for the first slice")
 
 Теперь опустим перпендикуляр из вершины квадрата в квадранте, противоположном тому в котором
 расположен угол градиента. Это линия 0%. Затем опустим перпендикуляр из вершины квадрата
@@ -169,7 +169,7 @@ frameborder="0" height="640"></iframe>
 следует, что *SO* и *EO* равны, а значит длина отрезка *SE* равна длине *EO* умноженной на два и
 длине *SO* умноженной на два.
 
-![A right angled triangle and how to compute sime and cosine functions] (img/right_triangle_trigonometric_functions.png?raw=true&repo=dig_deep_into_css_gradients "A right angled triangle and how to compute sime and cosine functions")
+![A right angled triangle and how to compute sime and cosine functions] (img/right_triangle_trigonometric_functions_ru.png?raw=true&repo=dig_deep_into_css_gradients "A right angled triangle and how to compute sime and cosine functions")
 
 *Примечание: перед тем как двигаться дальше, вспомним несколько тригонометрических понятий.
 Самая длинная сторона прямоугольного треугольника - лежит напротив прямого угла и называется
