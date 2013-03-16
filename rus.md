@@ -20,7 +20,7 @@ CSS3][1] созданную Леа Веру (Lea Verou). Возможность 
 [360°][5]/10 = 36°.
 
 Ниже можно увидеть, как разные уровни фона накладываются друг на друга. В него
-добавлена кнопка "Пауза", чтобы избежать проблем с производительностью,
+добавлена кнопка «Пауза», чтобы избежать проблем с производительностью,
 которые могут возникнуть из-за повторяющейся анимации.
 
 <iframe id="cp_embed_Kuvom" src="http://codepen.io/thebabydino/embed/Kuvom?type=result&amp;height=340&amp;safe=true" data-height="340" allowtransparency="true" class="cp_embed_iframe" style="width: 100%;border: none; overflow: hidden;" scrolling="no" frameborder="0" height="340"></iframe>
