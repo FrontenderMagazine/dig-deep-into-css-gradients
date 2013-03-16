@@ -50,12 +50,12 @@ CSS3][1] созданную Леа Веру (Lea Verou). Возможность 
 свойство `background-color` указывается последним. Для фона указывают
 следующие свойства:
 
-* <background-image>
-* <background-position> / <background-size>
-* <background-repeat>
-* <background-attachment>
-* <background-origin>
-* <background-clip>
+* `<background-image>`
+* `<background-position>` / `<background-size>`
+* `<background-repeat>`
+* `<background-attachment>`
+* `<background-origin>`
+* `<background-clip>`
 
 Если свойство `background-position` не указано, то и `background-size`
 указывать не нужно. Кроме того, для `background-origin` и `background-clip`
