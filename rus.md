@@ -6,7 +6,7 @@
 используя градиенты, стала отправной точкой для моих собственных
 экспериментов с CSS.
 
-![Rainbow wheel](img/rainbow_wheel_screen.gif?raw=true&repo=dig-deep-into-css-gradients "Rainbow wheel")
+![Радужный круг](img/rainbow_wheel_screen.gif?raw=true&repo=dig-deep-into-css-gradients "Радужный круг")
 
 Недавно, просматривая демо на CodePen, я наткнулась на [разноцветное колесо, построеное на CSS3][2]
 и меня посетила мысль: «А ведь для создания такого колеса можно использовать
@@ -46,7 +46,7 @@
 
 ## Сокращённая запись свойства background
 
-Напомню, что отдельные уровни фона указываются по порядку: начиная с верхнего и 
+Напомню, что отдельные уровни фона указываются по порядку: начиная с верхнего и
 вниз, а свойство `background-color` указывается последним. Для фона указывают
 следующие свойства:
 
@@ -138,7 +138,7 @@ _Примечание: если отталкиваться от математи
 это линия 100% (черная линия на изображении ниже), её пересечение с линией градиента - это
 *конечная точка* градиента (назовем её точкой *E*).
 
-![Gradient with gradient line, 0% line, 100% line](img/gradient_ru.png?raw=true&amp;repo=dig_deep_into_css_gradients "Gradient with gradient line, 0% line, 100% line")
+![[Градиент с линией градиента, линией 0%, линией 100%](img/gradient_ru.png?raw=true&amp;repo=dig_deep_into_css_gradients "[Градиент с линией градиента, линией 0%, линией 100%")
 
 Чтобы рассчитать процентное значение произвольной точки *P*, для начала опустим из
 нее перпендикуляр на линию градиента. Линия градиента и этот перпендикуляр пересекаются
@@ -171,7 +171,7 @@ _Примечание: если отталкиваться от математи
 значит, длина отрезка *SE* равна длине *EO* умноженной на два и длине *SO*
 умноженной на два.
 
-![A right angled triangle and how to compute sime and cosine functions] (img/right_triangle_trigonometric_functions_ru.png?raw=true&amp;repo=dig_deep_into_css_gradients "A right angled triangle and how to compute sime and cosine functions")
+![Прямоугольный треугольник и рассчёт синуса и косинуса] (img/right_triangle_trigonometric_functions_ru.png?raw=true&amp;repo=dig_deep_into_css_gradients "Прямоугольный треугольник и рассчёт синуса и косинуса")
 
 *Примечание: перед тем как двигаться дальше, вспомним несколько
 тригонометрических понятий. Самая длинная сторона прямоугольного треугольника
