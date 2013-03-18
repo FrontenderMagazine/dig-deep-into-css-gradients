@@ -236,14 +236,14 @@ frameborder="0" height="320"></iframe>
 [4]: http://en.wikipedia.org/wiki/Central_angle
 [5]: http://www.mathopenref.com/degrees.html
 [6]: https://bugs.webkit.org/show_bug.cgi?id=67166
-[7]: http://en.wikipedia.org/wiki/Unit_circle
+[7]: http://ru.wikipedia.org/wiki/%D0%95%D0%B4%D0%B8%D0%BD%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C
 [8]: http://leaverou.github.com/prefixfree/
 [9]: http://www.mathopenref.com/perpendicular.html
 [10]: http://www.mathopenref.com/square.html
 [11]: http://www.mathopenref.com/anglesvertical.html
 [12]: http://www.mathopenref.com/righttriangle.html
-[13]: http://en.wikipedia.org/wiki/Triangle#Similarity_and_congruence
+[13]: http://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA#.D0.9F.D1.80.D0.B8.D0.B7.D0.BD.D0.B0.D0.BA.D0.B8_.D1.80.D0.B0.D0.B2.D0.B5.D0.BD.D1.81.D1.82.D0.B2.D0.B0_.D1.82.D1.80.D0.B5.D1.83.D0.B3.D0.BE.D0.BB.D1.8C.D0.BD.D0.B8.D0.BA.D0.BE.D0.B2
 [14]: http://www.mathopenref.com/hypotenuse.html
-[15]: http://en.wikipedia.org/wiki/Cathetus
+[15]: http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D1%82
 [16]: http://www.mathopenref.com/sine.html
 [17]: http://www.mathopenref.com/cosine.html
