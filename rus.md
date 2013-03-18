@@ -173,7 +173,7 @@ _Примечание: если отталкиваться от математи
 
 ![A right angled triangle and how to compute sime and cosine functions] (img/right_triangle_trigonometric_functions_ru.png?raw=true&amp;repo=dig_deep_into_css_gradients "A right angled triangle and how to compute sime and cosine functions")
 
-* Примечание: перед тем как двигаться дальше, вспомним несколько
+*Примечание: перед тем как двигаться дальше, вспомним несколько
 тригонометрических понятий. Самая длинная сторона прямоугольного треугольника
 лежит напротив прямого угла и называется [гипотенузой][14]. Две другие стороны
 (которые формируют прямой угол) называются [катетами][15] прямоугольного
